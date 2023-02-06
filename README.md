@@ -1,5 +1,5 @@
 
-### Hi! 👋 I'm [**@MaxUMEO**](https://github.com/MaxUMEO). Python developer
+### Hi! 👋 I'm [**@Jet_Max**](https://github.com/MaxUMEO). Python developer
 
 Yandex.[@Practicum](https://practicum.yandex.ru/python-developer-plus/) graduate
 
